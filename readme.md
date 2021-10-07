@@ -4,4 +4,4 @@ This is a readme! I'm writing this at 9:36am
 
 # Files
 
-Index.js is a file, and it's alright. 
+Index.js is a file, and it's alright. Could have a cooler name, though.
